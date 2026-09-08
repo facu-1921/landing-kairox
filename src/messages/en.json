@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "title": "Kairox — Software development as a strategic decision",
+    "description": "Technology partner for startups and companies: product design, web and mobile development, backend and cloud architecture. Mendoza, Argentina."
+  },
+  "nav": {
+    "services": "Services",
+    "cases": "Case studies",
+    "process": "How we work",
+    "team": "Team",
+    "contact": "Contact",
+    "cta": "Tell us about your project"
+  },
+  "hero": {
+    "badge": "Technology partners · Mendoza, Argentina",
+    "title": "Software development as a strategic decision",
+    "subtitle": "We align technology, product and business to create real impact. We design, build and evolve the software that powers startups and companies.",
+    "ctaPrimary": "Tell us about your project",
+    "ctaSecondary": "See case studies",
+    "trustedBy": "Companies that trust us"
+  },
+  "stats": {
+    "years": { "value": "+6", "label": "years building software" },
+    "projects": { "value": "+25", "label": "projects delivered" },
+    "clients": { "value": "+15", "label": "clients who trust us" },
+    "team": { "value": "14", "label": "specialists on the team" }
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Our services",
+    "subtitle": "We cover the full lifecycle of a digital product: from idea to launch, and from launch to scale.",
+    "items": {
+      "productDesign": {
+        "title": "Product Design",
+        "description": "Discovery, UX/UI and prototyping to launch products people actually use."
+      },
+      "mobile": {
+        "title": "Mobile apps",
+        "description": "iOS and Android apps with React Native: one codebase, native experience."
+      },
+      "web": {
+        "title": "Web development",
+        "description": "Fast, secure and scalable websites and platforms, built with React and Next.js."
+      },
+      "backend": {
+        "title": "Backend development",
+        "description": "Robust APIs and systems in Node.js, Go and Python that power your day-to-day operations."
+      },
+      "infra": {
+        "title": "Architecture & infrastructure",
+        "description": "Cloud, DevOps and AWS architectures designed to grow without friction or surprises."
+      }
+    }
+  },
+  "cases": {
+    "eyebrow": "Case studies",
+    "title": "Results that speak for us",
+    "subtitle": "We work as technology partners. These are some of the products we built together with our clients.",
+    "labels": {
+      "challenge": "The challenge",
+      "solution": "The solution",
+      "result": "The result"
+    },
+    "items": {
+      "rentennials": {
+        "name": "Rentennials",
+        "sector": "Mobility · Marketplace",
+        "challenge": "Turning peer-to-peer car rental into a fully digital experience: listings, bookings, payments and trust between users in one place.",
+        "solution": "We built the web platform and the admin panel: vehicle listings, booking management and operations tooling for the team.",
+        "result": "A live marketplace connecting owners and drivers, with centralized operations ready to scale."
+      },
+      "taker": {
+        "name": "Taker",
+        "sector": "Digital product",
+        "challenge": "Turning a business vision into a working digital product under demanding time-to-market constraints.",
+        "solution": "We assembled a dedicated product and engineering team that took Taker from UX/UI design to launch, iterating on real user feedback.",
+        "result": "A product in production that keeps evolving alongside the business."
+      },
+      "sinustrack": {
+        "name": "SinusTrack",
+        "sector": "Digital health",
+        "challenge": "Digitizing patient follow-up: scattered clinical information and manual communication between professionals and patients.",
+        "solution": "We developed the web portal for professionals and a WhatsApp assistant that automates patient contact and follow-up.",
+        "result": "Centralized follow-up and automated communication, with less operational load for the medical team."
+      },
+      "invertironline": {
+        "name": "InvertirOnline",
+        "sector": "Fintech · Investments",
+        "challenge": "Adding engineering capacity to one of Argentina's leading investment platforms, in a demanding, regulated environment.",
+        "solution": "Our team joined the development of their digital products, bringing delivery speed with enterprise-grade quality standards.",
+        "result": "Consistent delivery on a platform used by hundreds of thousands of investors."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "title": "We are more than code",
+    "intro": "At Kairox we work as technology partners for startups and companies, taking part in key product, architecture and technology decisions.",
+    "steps": {
+      "understand": {
+        "title": "We design from understanding",
+        "description": "We analyze the context, the business and the users to identify real problems. Technical decisions are born from the problem to solve, not from the tool of the day."
+      },
+      "build": {
+        "title": "We build solid software, made to grow",
+        "description": "We develop with a focus on quality, scalability and real-world use. We take care of every detail so it works today and can grow tomorrow."
+      },
+      "evolve": {
+        "title": "Software doesn't end at launch",
+        "description": "We measure, adjust and improve continuously, supporting the evolution of the software and the product over time."
+      }
+    }
+  },
+  "team": {
+    "eyebrow": "Our team",
+    "title": "The people behind Kairox",
+    "subtitle": "A multidisciplinary team combining development, design and software architecture, working as one team alongside every client.",
+    "groupPhotoAlt": "The Kairox team at the Mendoza office",
+    "workingPhotoAlt": "Part of the Kairox team at work",
+    "roles": {
+      "founder": "Founder · Systems Engineer",
+      "backend": "Back End",
+      "frontend": "Front End",
+      "mobile": "Mobile",
+      "uxui": "UX/UI"
+    }
+  },
+  "tech": {
+    "eyebrow": "Technologies",
+    "title": "World-class tooling",
+    "subtitle": "We choose proven, scalable technology to build products that last."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's build together",
+    "subtitle": "Tell us about your idea or your technical challenge. We reply within 48 hours.",
+    "emailLabel": "Write to us",
+    "whatsappLabel": "Let's talk",
+    "locationLabel": "Based in",
+    "location": "Mendoza, Argentina",
+    "ctaEmail": "Send an email",
+    "ctaWhatsapp": "Chat on WhatsApp"
+  },
+  "footer": {
+    "tagline": "Technology with purpose",
+    "rights": "All rights reserved.",
+    "madeIn": "Made in Mendoza, Argentina"
+  }
+}

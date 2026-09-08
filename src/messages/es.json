@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "title": "Kairox — Desarrollo de software como decisión estratégica",
+    "description": "Socios tecnológicos de startups y empresas: product design, desarrollo web y móvil, backend y arquitectura cloud. Mendoza, Argentina."
+  },
+  "nav": {
+    "services": "Servicios",
+    "cases": "Casos de éxito",
+    "process": "Cómo trabajamos",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "cta": "Contanos tu proyecto"
+  },
+  "hero": {
+    "badge": "Socios tecnológicos · Mendoza, Argentina",
+    "title": "Desarrollo de software como decisión estratégica",
+    "subtitle": "Alineamos tecnología, producto y negocio para generar impacto real. Diseñamos, construimos y evolucionamos el software que sostiene a startups y empresas.",
+    "ctaPrimary": "Contanos tu proyecto",
+    "ctaSecondary": "Ver casos de éxito",
+    "trustedBy": "Empresas que confían en nosotros"
+  },
+  "stats": {
+    "years": { "value": "+6", "label": "años construyendo software" },
+    "projects": { "value": "+25", "label": "proyectos entregados" },
+    "clients": { "value": "+15", "label": "clientes que confían en nosotros" },
+    "team": { "value": "14", "label": "especialistas en el equipo" }
+  },
+  "services": {
+    "eyebrow": "Qué hacemos",
+    "title": "Nuestros servicios",
+    "subtitle": "Cubrimos el ciclo completo de un producto digital: de la idea al lanzamiento, y del lanzamiento a la escala.",
+    "items": {
+      "productDesign": {
+        "title": "Product Design",
+        "description": "Descubrimiento, UX/UI y prototipado para lanzar productos que la gente realmente usa."
+      },
+      "mobile": {
+        "title": "Aplicaciones móviles",
+        "description": "Apps iOS y Android con React Native: una sola base de código, experiencia nativa."
+      },
+      "web": {
+        "title": "Desarrollo web",
+        "description": "Webs y plataformas rápidas, seguras y preparadas para escalar, construidas con React y Next.js."
+      },
+      "backend": {
+        "title": "Desarrollo backend",
+        "description": "APIs y sistemas robustos en Node.js, Go y Python que sostienen tu operación día a día."
+      },
+      "infra": {
+        "title": "Arquitectura e infraestructura",
+        "description": "Cloud, DevOps y arquitecturas en AWS diseñadas para crecer sin fricción ni sorpresas."
+      }
+    }
+  },
+  "cases": {
+    "eyebrow": "Casos de éxito",
+    "title": "Resultados que hablan por nosotros",
+    "subtitle": "Trabajamos como socios tecnológicos. Estos son algunos de los productos que construimos junto a nuestros clientes.",
+    "labels": {
+      "challenge": "El desafío",
+      "solution": "La solución",
+      "result": "El resultado"
+    },
+    "items": {
+      "rentennials": {
+        "name": "Rentennials",
+        "sector": "Movilidad · Marketplace",
+        "challenge": "Llevar el alquiler de vehículos entre personas a una experiencia 100% digital: publicaciones, reservas, pagos y confianza entre usuarios en un mismo lugar.",
+        "solution": "Construimos la plataforma web y el panel de administración: publicación de vehículos, gestión de reservas y herramientas de operación para el equipo.",
+        "result": "Un marketplace en funcionamiento que conecta propietarios y conductores, con una operación centralizada y lista para escalar."
+      },
+      "taker": {
+        "name": "Taker",
+        "sector": "Producto digital",
+        "challenge": "Convertir una visión de negocio en un producto digital operativo, con tiempos de salida al mercado exigentes.",
+        "solution": "Formamos un equipo dedicado de producto e ingeniería que llevó Taker del diseño UX/UI al lanzamiento, iterando con feedback real de usuarios.",
+        "result": "Un producto en producción que evoluciona de forma continua junto al negocio."
+      },
+      "sinustrack": {
+        "name": "SinusTrack",
+        "sector": "Salud digital",
+        "challenge": "Digitalizar el seguimiento de pacientes: información clínica dispersa y comunicación manual entre profesionales y pacientes.",
+        "solution": "Desarrollamos el portal web para profesionales y un asistente de WhatsApp que automatiza el contacto y el seguimiento de pacientes.",
+        "result": "Seguimiento centralizado y comunicación automatizada, con menos carga operativa para el equipo médico."
+      },
+      "invertironline": {
+        "name": "InvertirOnline",
+        "sector": "Fintech · Inversiones",
+        "challenge": "Sumar capacidad de ingeniería a una de las plataformas de inversión líderes de Argentina, en un entorno exigente y regulado.",
+        "solution": "Nuestro equipo se integró al desarrollo de sus productos digitales, aportando velocidad de entrega con estándares de calidad enterprise.",
+        "result": "Entregas consistentes en una plataforma usada por cientos de miles de inversores."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Cómo trabajamos",
+    "title": "Somos más que código",
+    "intro": "En Kairox trabajamos como socios tecnológicos de startups y empresas, participando en las decisiones clave de producto, arquitectura y tecnología.",
+    "steps": {
+      "understand": {
+        "title": "Diseñamos desde el entendimiento",
+        "description": "Analizamos el contexto, el negocio y los usuarios para identificar problemas reales. Las decisiones técnicas nacen del problema que hay que resolver, no de la herramienta de turno."
+      },
+      "build": {
+        "title": "Construimos software sólido, pensado para crecer",
+        "description": "Desarrollamos con foco en la calidad, la escalabilidad y el uso real. Cuidamos cada detalle para que funcione hoy y pueda crecer mañana."
+      },
+      "evolve": {
+        "title": "El software no termina cuando se lanza",
+        "description": "Medimos, ajustamos y mejoramos de forma continua, acompañando la evolución del software y del producto a lo largo del tiempo."
+      }
+    }
+  },
+  "team": {
+    "eyebrow": "Nuestro equipo",
+    "title": "Las personas detrás de Kairox",
+    "subtitle": "Un equipo multidisciplinario que integra desarrollo, diseño y arquitectura de software, trabajando de forma integrada como un solo equipo junto a cada cliente.",
+    "groupPhotoAlt": "El equipo de Kairox en la oficina de Mendoza",
+    "workingPhotoAlt": "Parte del equipo de Kairox trabajando",
+    "roles": {
+      "founder": "Founder · Ing. en Sistemas",
+      "backend": "Back End",
+      "frontend": "Front End",
+      "mobile": "Mobile",
+      "uxui": "UX/UI"
+    }
+  },
+  "tech": {
+    "eyebrow": "Tecnologías",
+    "title": "Herramientas de clase mundial",
+    "subtitle": "Elegimos tecnología probada y escalable para construir productos que duran."
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Construyamos juntos",
+    "subtitle": "Contanos tu idea o tu desafío técnico. Te respondemos en menos de 48 horas.",
+    "emailLabel": "Escribinos",
+    "whatsappLabel": "Hablemos",
+    "locationLabel": "Estamos en",
+    "location": "Mendoza, Argentina",
+    "ctaEmail": "Enviar un email",
+    "ctaWhatsapp": "Hablar por WhatsApp"
+  },
+  "footer": {
+    "tagline": "Tecnología con propósito",
+    "rights": "Todos los derechos reservados.",
+    "madeIn": "Hecho en Mendoza, Argentina"
+  }
+}
