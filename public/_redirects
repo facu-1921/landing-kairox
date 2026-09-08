@@ -1,0 +1,4 @@
+# Respaldo de los redirects de netlify.toml (el toml tiene prioridad).
+# Viaja dentro de out/, asi que aplica aunque el toml no se lea.
+/  /en/  302  Language=en
+/  /es/  302

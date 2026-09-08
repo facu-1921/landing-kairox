@@ -1,0 +1,24 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+# La raiz no existe como pagina: localePrefix es "always", asi que /es y /en
+# son las unicas rutas reales. Redirigimos / segun el idioma del navegador.
+[[redirects]]
+  from = "/"
+  to = "/en/"
+  status = 302
+  force = true
+  conditions = { Language = ["en"] }
+
+[[redirects]]
+  from = "/"
+  to = "/es/"
+  status = 302
+  force = true
+
+# Assets con hash: inmutables.
+[[headers]]
+  for = "/_next/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

@@ -16,6 +16,10 @@ type Props = {
   params: Promise<{ locale: string }>;
 };
 
+// Con output: "export" solo existen los locales generados aca; cualquier
+// otro segmento debe resolver a 404 estatico en vez de intentar render dinamico.
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
@@ -37,7 +41,7 @@ export async function generateMetadata({
       images: ["/team/equipo-grupal.jpg"],
     },
     alternates: {
-      languages: { es: "/", en: "/en" },
+      languages: { es: "/es", en: "/en" },
     },
   };
 }
